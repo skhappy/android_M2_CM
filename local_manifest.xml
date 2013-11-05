@@ -10,7 +10,7 @@
   <remove-project path="system/core" name="CyanogenMod/android_system_core" />
 
   <!-- Local projects -->
-  <project path="system/core" name="/mitwo-dev/platform_system_core" remote="mitwo" revision="android-4.3-aries" />
+  <project path="system/core" name="mitwo-dev/platform_system_core" remote="mitwo" revision="android-4.3-aries" />
   <project path="hardware/qcom/audio-caf" name="mitwo/android_hardware_qcom_audio-caf" remote="mitwo" revision="cm-10.2" />
 
   <!-- device -->
